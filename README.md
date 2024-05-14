@@ -1,9 +1,5 @@
 # Bem vindo(a)!
-Realizo transformações e alterações em código. Igual ao Superman, superando as situações adversas e desafios.
-
-Tenho prática com Python e Java. Tenho buscado me aperfeiçoar ainda mais nelas. Estou iniciando os estudos em C para projetos da universidade.
-
-Tenho boa comunicação e estou me qualificando mais em marketing, que julgo ser importante para vender qualquer software, site ou sistema.
+Desenvolvo e otimizo código, superando desafios e encontrando soluções criativas. Experiência em Python e Java, com busca contínua por aprimoramento. Conhecimento básico em C, com foco em projetos acadêmicos. Boa comunicação interpessoal. Buscando qualificação em marketing, com foco em análise de dados, além de formatação, criação e copywriting para sites.
 
 
 ---
