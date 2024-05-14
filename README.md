@@ -1,5 +1,3 @@
-<img src = "SuperMen.gif" width = "400px" align = "center">
-
 # Bem vindo(a)!
 Realizo transformações e alterações em código. Igual ao Superman, superando as situações adversas e desafios.
 
